@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "IT Girl Dress",
+        "category": "Dress",
+        "brand": "Nish Wardrobe",
+        "price": 999.99,
+        "stock": 50,
+        "description": "IT Girl Dress",
+        "image": "./public/images/itgirl.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Fairycore Skirt",
+        "category": "Skrit",
+        "brand": "Nish Wardrobe",
+        "price": 599.99,
+        "stock": 50,
+        "description": "Fairycore Skirt",
+        "image": "./public/images/skirt.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dreamy Top",
+        "category": "Top",
+        "brand": "Nish Wardrobe",
+        "price": 599.99,
+        "stock": 50,
+        "description": "Dreamy Top",
+        "image": "./public/images/dreamytop.jpg"
+    },
+    
+    {
+        "id": 4,
+        "name": "I'm Just a Girl Co-ords",
+        "category": "Co-ords",
+        "brand": "Nish Wardrobe",
+        "price": 799.99,
+        "stock": 50,
+        "description": "I'm Just a Girl Co-ords",
+        "image": "./public/images/cordset1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ruffle Romance",
+        "category": "Ruffle fits",
+        "brand": "Nish Wardrobe",
+        "price": 799.99,
+        "stock": 50,
+        "description": "Ruffle Romance",
+        "image": "./public/images/ruffle.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Boss Lady",
+        "category": "Outfit",
+        "brand": "Nish Wardrobe",
+        "price": 1100.00,
+        "stock": 50,
+        "description": "Boss Lady",
+        "image": "./public/images/bosslady.jpg"
+    }
+]
